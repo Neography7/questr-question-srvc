@@ -1,0 +1,30 @@
+{
+  "authID": "Kimlik Doğrulama Kimliği",
+  "userID": "Kullanıcı Kimliği",
+  "question": "Soru",
+  "anon": "Anonim",
+  "questionID": "Soru Kimliği",
+  "answer": "Cevap",
+  "page": "Sayfa",
+  "validation": {
+    "INVALID_STRING": "$t({{field}}) için geçersiz karakter dizilimi.",
+    "INVALID_ALPHANUMERIC": "$t({{field}}) için geçersiz karakter dizilimi.",
+    "NOT_EMPTY": "$t({{field}}) boş olamaz.",
+    "INVALID_EMAIL": "$t({{field}}) için geçersiz e-posta adresi.",
+    "INVALID_NUMBER": "$t({{field}}) için geçersiz sayı formatı.",
+    "MIN_LENGTH": "$t({{field}}), en az $t({{length}}) karakter uzunluğunda olmalıdır.",
+    "MAX_LENGTH": "$t({{field}}), en fazla $t({{length}}) karakter uzunluğunu aşmamalıdır."
+  },
+  "callback": {
+    "USER_NOT_FOUND": "Kullanıcı bulunamadı.",
+    "QUESTION_NOT_FOUND": "Soru bulunamadı.",
+    "QUESTION_CANNOT_DELETE": "Soru silinemez.",
+    "QUESTION_DELETED": "Soru silindi.",
+    "ANSWER_CREATED": "Cevap oluşturuldu.",
+    "ANSWER_DELETED": "Cevap silindi.",
+    "ANSWER_CANNOT_CREATE": "Cevap oluşturulamadı.",
+    "ANSWER_CANNOT_DELETE": "Cevap silinemedi.",
+    "ANSWER_CANNOT_FIND": "Cevap bulunamadı.",
+    "QUESTION_CREATED": "Soru oluşturuldu."
+  }
+}

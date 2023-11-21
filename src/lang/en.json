@@ -1,0 +1,30 @@
+{
+    "authID": "Authentication ID",
+    "userID": "User ID",
+    "question": "Question",
+    "anon": "Anonymous",
+    "questionID": "Question ID",
+    "answer": "Answer",
+    "page": "Page",
+    "validation": {
+        "INVALID_STRING": "Invalid string format for $t({{field}}).",
+        "INVALID_ALPHANUMERIC": "Invalid format for $t({{field}}).",
+        "NOT_EMPTY": "$t({{field}}) cannot be empty.",
+        "INVALID_EMAIL": "Invalid email address for $t({{field}}).",
+        "INVALID_NUMBER": "Invalid number format for $t({{field}}).",
+        "MIN_LENGTH": "$t({{field}}) must be at least $t({{length}}) characters long.",
+        "MAX_LENGTH": "$t({{field}}) must not exceed $t({{length}}) characters."
+    },
+    "callback": {
+        "USER_NOT_FOUND": "The user not found.",
+        "QUESTION_NOT_FOUND": "Question not found.",
+        "QUESTION_CANNOT_DELETE": "Question cannot be deleted.",
+        "QUESTION_DELETED": "Question deleted.",
+        "ANSWER_CREATED": "Answer created.",
+        "ANSWER_DELETED": "Answer deleted.",
+        "ANSWER_CANNOT_CREATE": "Answer cannot be created.",
+        "ANSWER_CANNOT_DELETE": "Answer cannot be deleted.",
+        "ANSWER_CANNOT_FIND": "Answer not found.",
+        "QUESTION_CREATED": "Question created."
+    }
+}
